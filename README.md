@@ -35,8 +35,6 @@ To replicate the analysis, follow these steps:
    ```bash
    jupyter lab
 
-
-
 ## Results
 
 - **Optimal Clusters:** The analysis determined that the optimal number of clusters (`k`) is 4 for both the original and PCA-transformed data.
